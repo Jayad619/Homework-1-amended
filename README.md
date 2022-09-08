@@ -13,3 +13,6 @@ I have improved the codebase for long-term sustainability by checking that all l
 ・ Put the header tags in order from h1 to h4 from the header to the footer.
 
 Deployed URL : 
+
+
+<img width="1512" alt="Screenshot 2022-09-08 at 12 24 50" src="https://user-images.githubusercontent.com/102623563/189110521-a1c734b0-4478-46d2-aa81-5c60e066fd44.png">
